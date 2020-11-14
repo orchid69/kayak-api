@@ -1,0 +1,32 @@
+_id: spc_b9ace5bef3ea4a24a238c86c5de64c65
+type: ApiSpec
+parentId: wrk_634bf9fc0bbc45f39044773fed265c31
+modified: 1605358252595
+created: 1605076959002
+fileName: Insomnia Designer
+contents: "paths:
+
+  \  /users:
+
+  \    get:
+
+  \      tags:
+
+  \        - user
+
+  \      summary: get all user
+
+  \      description: \"\"
+
+  \      operationId: getUser
+
+  \      paramters:
+
+  \      responses:
+
+  \        '200':
+
+  \          description: hoge
+
+  \        "
+contentType: yaml
